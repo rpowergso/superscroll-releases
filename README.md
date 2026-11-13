@@ -7,3 +7,7 @@ This repository is reserved for SuperScroll installers, update manifests and rel
 When the first verified release is ready, downloads will appear under [Releases](https://github.com/rpowergso/superscroll-releases/releases). A website may link to that page. Signed installer builds will check this repository for updates only when the user chooses Help > Check for updates.
 
 Windows portable/ZIP builds do not update in-app. Existing development versions need one manual upgrade to an updater-enabled installer. Application profiles may contain sensitive website sessions; never upload those folders to an issue or support request.
+
+## Bugs and feedback
+
+[Report a bug](https://github.com/rpowergso/superscroll-releases/issues/new?template=bug_report.yml) · [Share feedback or suggest a feature](https://github.com/rpowergso/superscroll-releases/issues/new?template=feedback.yml)
